@@ -11,6 +11,8 @@ Make sure you **already have** some stuff installed:
 
 ## **Step 2**: setup
 
+**MANDATORY!**: Use the **Git Bash** installed console to run the following 3 commands:
+
 ```
 $ git clone https://github.com/cbelda/angular-environment-setup.git
 $ cd angular-environment-setup
@@ -20,3 +22,5 @@ $ ./setup.sh
 ## **Step 3**: post-setup
 
 The end of the script will prompt both a **Chrome** window/tab with the running app and a **Visual Studio Code** one with the app's code.
+
+![](../img/result.png)
